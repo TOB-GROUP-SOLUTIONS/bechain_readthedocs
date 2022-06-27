@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'BecChain'
+project = 'BeChain'
 copyright = '2021, TOB GROUP SOLUTIONS'
 author = 'Luciano Bertran Engelmann'
 
