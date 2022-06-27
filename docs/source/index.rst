@@ -1,4 +1,4 @@
-Bienvenido a la docomentación de BeChain
+Bienvenido a la documentación de BeChain
 ===================================
 
 **BeChain** (/lu'make/) is a Python library for cooks and food lovers

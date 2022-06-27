@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'BeChain'
-copyright = '2021, TOB GROUP SOLUTIONS'
+copyright = '2022, TOB GROUP SOLUTIONS'
 author = 'Luciano Bertran Engelmann'
 
 release = '0.1'
