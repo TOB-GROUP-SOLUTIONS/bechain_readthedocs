@@ -3,3 +3,7 @@ version: 2
 formats:
   - pdf
   - epub
+
+  nav:
+  - 'index.rst'
+    - 'usage.rst'

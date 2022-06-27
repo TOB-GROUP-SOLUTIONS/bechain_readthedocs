@@ -14,7 +14,12 @@ Luego cualquier interesado puede validar los certificados y su trazabilidad desd
 **Totalmente integrable**
 Nuestra plataforma posee interfaces de usuario web y web services para integrar la solución a cualquier proceso o sistema.
 
-Revisa la sección de :doc:`integraciones` para más información.
+Check out the :doc:`usage` section for further information, including
+how to :ref:`installation` the project.
+
+.. note::
+
+   This project is under active development.
 
 Contents
 --------
