@@ -1,22 +1,38 @@
-Usage
+Integración
 =====
 
 .. _installation:
 
-Installation
+Aspectos Generales
 ------------
 
-To use Lumache, first install it using pip:
+ARQUITECTURA REST
+
+La API para desarrolladores de PAGOS360 utiliza una arquitectura REST.
+URLs previsibles y orientadas a recursos, que utilizan códigos de respuesta HTTP para indicar errores. Funciones HTTP integradas, como la autenticación y los verbos, que son conocidos por los clientes estándares.
+
+Autenticación
+----------------
+
+Para utilizar la plataforma se debe solicitar un token de acceso por sesión. Para esto debe enviar usuario y contraseña al endpoint de login para obtener el token.
+Este token luego será enviado en la cabecera de cada llamado a la API.
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+   /url.api.al.login
 
-Creating recipes
-----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+
+
+
+
+
+
+
+
+
+
+
 
 .. autofunction:: lumache.get_random_ingredients
 
