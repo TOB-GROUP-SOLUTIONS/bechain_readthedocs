@@ -7,3 +7,4 @@ formats:
   nav:
   - 'index.rst'
     - 'usage.rst'
+    - 'api.rst'
