@@ -21,6 +21,30 @@ Este token luego será enviado en la cabecera de cada llamado a la API.
 
    /url.api.al.login
 
+Certificaciones
+----------------
+
+Para realizar certificaciones (stamps) de documentos, datos o hashes en blockchain, se debe utilizar el endpoint "stamp". Se pueden enviar: documentos, un json con información o hashes.
+
+Se obtendrá como respuesta el resultado del stamp sobre la blockchain.
+
+.. code-block:: console
+
+   /url.api.al.stamp
+
+Validaciones
+----------------
+
+Para realizar validaciones de documentos, datos o hashes ya certificados en blockchain, se debe utilizar el endpoint "verify". Se pueden enviar: documentos, un json con información o hashes.
+
+Se obtendrá como respuesta el resultado de la verificación sobre la blockchain.
+
+.. code-block:: console
+
+   /url.api.al.verify
+
+
+
 
 
 
