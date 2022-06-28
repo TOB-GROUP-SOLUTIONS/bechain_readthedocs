@@ -2,8 +2,6 @@ Bienvenido a la documentación de BeChain
 ===================================
 
 **BeChain**. Seguridad y transparencia a través de blockchain.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
 
 **Certificaciones**
 Las empresas y organizaciones utilizan la plataforma BeChain para dar seguridad y transparencia a sus procesos, datos y documentos a través de blockchain.
